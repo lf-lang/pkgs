@@ -9,3 +9,6 @@ FIXME: Instructions for using these libraries should go here.
 
 ## CCpp Target
 - [Gazebo simulator](https://github.com/lf-lang/gazebo-ccpp)
+
+## Python Target
+- [Edge AI library](https://github.com/lf-lang/edgeai-python)
