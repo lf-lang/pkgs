@@ -17,7 +17,7 @@ Alternatively, if your project is in a git repo, create a submodule:
 git submodule add https://github.com/lf-lang/video-py.git
 ```
 
-Then import the library reactors. For example:
+Then import the library reactors in your `.lf` files. For example:
 
 ```
 import WebCam, VideoDisplay from <video-py>
@@ -33,4 +33,5 @@ import WebCam, VideoDisplay from <video-py>
 
 ## Python Target Packages
 - [Edge AI library](https://github.com/lf-lang/edgeai-python)
+- [MuJoCo physics-based simulation](https://github.com/lf-lang/mujoco-py)
 - [Video and object detection](https://github.com/lf-lang/video-py)
